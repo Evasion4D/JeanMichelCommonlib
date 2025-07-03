@@ -18,7 +18,7 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.11.0"
+			"SemVersion": "^3.11.1"
 		},
 		{
 			"Name": "AbstractInstance",
@@ -27,5 +27,5 @@
 		}
 	],
 	"SemVersion": "2.0.0",
-	"GameVersion": ">=410840"
+	"GameVersion": ">=416835"
 }
